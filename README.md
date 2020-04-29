@@ -1,2 +1,2 @@
-# -abc
-Beschreibung
+# 1 Projekt
+Erste Übung
